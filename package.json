@@ -1,0 +1,11 @@
+{
+  "name": "fetch-retry-414",
+  "version": "0.1.0",
+  "description": "Fetch wrapper with exponential backoff, jitter and abort support.",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "example": "node example.js"
+  }
+}
